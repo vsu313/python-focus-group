@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-print(ananimal)
 
 # Illegal variable names
 #1animal = "Snake"
@@ -15,4 +14,6 @@ anAnimal = "Owl"
 AnAnimal = "Fish"
 ANANIMAL = "Bunny"
 an_animal_1 = "Guinea Pig"
+
+print(ananimal)
 

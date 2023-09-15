@@ -17,3 +17,7 @@ hello_world.py: A Python script that prints "Hello, World!" when run
 ## Session_04
 comments.py: A Python script that allows comments within code
 variables.py: A Python script that assigns variables and their values
+
+## Session_05
+strings.py: A Python script that represents a sequence of characters
+	* Also learned escape sequences, manipulating strings and stripping spaces
