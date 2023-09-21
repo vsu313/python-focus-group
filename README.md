@@ -21,3 +21,7 @@ variables.py: A Python script that assigns variables and their values
 ## Session_05
 strings.py: A Python script that represents a sequence of characters
 	* Also learned escape sequences, manipulating strings and stripping spaces
+
+## Session_06
+more_strings.py: learned indexing, strides, length fn, find fn, replicating, concatenating, 
+and other string formatting
