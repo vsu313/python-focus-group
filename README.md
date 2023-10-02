@@ -23,5 +23,11 @@ strings.py: A Python script that represents a sequence of characters
 	* Also learned escape sequences, manipulating strings and stripping spaces
 
 ## Session_06
-more_strings.py: learned indexing, strides, length fn, find fn, replicating, concatenating, 
+more_strings.py: Learned indexing, strides, length fn, find fn, replicating, concatenating, 
 and other string formatting
+
+## Session_07
+numeric_types.py: Learned definitions of integars, floats and strings as well as handling complexes
+type_casting.py: Learned to manipulate and assign roles
+expressions.py: Learned the  Python syntax to carry out mathematical operations
+complex_math.py: Learned the use of importing modules
