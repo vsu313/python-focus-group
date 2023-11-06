@@ -49,10 +49,19 @@ complex_math.py: Learned the use of importing modules
 
 ## Session_08
 typles.py: A Python script that represents an ordered sequence of elements within parentheses 
-	*Learned indexing, slicing, sorting, concatenating, nesting
+	* Learned indexing, slicing, sorting, concatenating, nesting
 
 lists.py: A Python script that represents an ordered sequence of elements within square brackets that has bigger potential for manipulation 
-	*Learned indexing, slicing, adding/changing elements, printing elements, aliasing, cloning
+	* Learned indexing, slicing, adding/changing elements, printing elements, aliasing, cloning
 
 ranges.py: A Python function that returns a sequence of numbers (useful in for-loops)
-  
+
+## Session_09
+dictionaries.py: A Python script that represents a type of collection with keys and values
+
+set_types.py: A Python script that represents a type of collection like lists and tuples but unordered_
+	* Also learned frozen sets*  
+	
+booleans.py: A Python data type that represents true or false
+	* Learned use of boolean values in comparison and logical operators*
+	

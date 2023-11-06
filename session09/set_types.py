@@ -67,3 +67,25 @@ check_subset1 = my_superset.issubset(my_subset)
 print(check_subset1)
 check_subset2 = my_subset.issubset(my_superset)
 print(check_subset2)
+
+
+# Make an empty frozen set
+print(f'The empty frozen set is: {frozenset()}')
+
+# Tuple of vowels
+vowels = ('a', 'e', 'i', 'o', 'u')
+# Turn the tuple of vowels into a frozenset
+fSet = frozenset(vowels)
+print(f'The frozen set is: {fSet}')
+
+# frozensets are immutable
+fSet.add('v')
+
+
+# Random dictionary
+person = {"name": "John", "age": 23, "sex": "male"}
+# Turn dictionary keys into a frozen set
+fSet = frozenset(person)
+print(f'The frozen set is: {fSet}')
+
+
