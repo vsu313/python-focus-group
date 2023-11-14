@@ -28,7 +28,7 @@ variables.py: A Python script that assigns variables and their values
 
 ## Session_05
 strings.py: A Python script that represents a sequence of characters
-	* Also learned escape sequences, manipulating strings and stripping spaces
+	* Also learned escape sequences, manipulating strings and stripping spaces*
 
 
 ## Session_06
@@ -49,10 +49,10 @@ complex_math.py: Learned the use of importing modules
 
 ## Session_08
 typles.py: A Python script that represents an ordered sequence of elements within parentheses 
-	* Learned indexing, slicing, sorting, concatenating, nesting
+	* Learned indexing, slicing, sorting, concatenating, nesting*
 
 lists.py: A Python script that represents an ordered sequence of elements within square brackets that has bigger potential for manipulation 
-	* Learned indexing, slicing, adding/changing elements, printing elements, aliasing, cloning
+	* Learned indexing, slicing, adding/changing elements, printing elements, aliasing, cloning*
 
 ranges.py: A Python function that returns a sequence of numbers (useful in for-loops)
 
@@ -65,3 +65,8 @@ set_types.py: A Python script that represents a type of collection like lists an
 booleans.py: A Python data type that represents true or false
 	* Learned use of boolean values in comparison and logical operators*
 	
+## Session_10
+data_types.py: All the types include strings, integers, floats, lists, ranges, dictionaries, and Boolean type
+for_loops.py: A Python function that allows for an iteration
+	* Learned basic for-loops, nested for-loops, parallel for-loops*
+while_loops.py: A Python function that allows for an iteration only if a condition is met
