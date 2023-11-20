@@ -70,3 +70,6 @@ data_types.py: All the types include strings, integers, floats, lists, ranges, d
 for_loops.py: A Python function that allows for an iteration
 	* Learned basic for-loops, nested for-loops, parallel for-loops*
 while_loops.py: A Python function that allows for an iteration only if a condition is met
+
+## Session_11
+conditionals.py: A Python script that allows for a certain set of actions to be carried out only when a certain condition is met_
