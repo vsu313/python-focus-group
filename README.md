@@ -72,4 +72,7 @@ for_loops.py: A Python function that allows for an iteration
 while_loops.py: A Python function that allows for an iteration only if a condition is met
 
 ## Session_11
-conditionals.py: A Python script that allows for a certain set of actions to be carried out only when a certain condition is met_
+conditionals.py: A Python script that allows for a certain set of actions to be carried out only when a certain condition is met
+
+## Session_12
+functions.py: A Python script that allows for an argument to be carried out under a function name
